@@ -1,0 +1,12 @@
+{
+  "domain": "release_test",
+  "name": "Release Test",
+  "codeowners": [
+    "@greghesp"
+  ],
+  "config_flow": false,
+  "documentation": "https://github.com/greghesp/hacs-release-template",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/greghesp/hacs-release-template/issues",
+  "version": "1.0.0"
+}
